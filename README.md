@@ -1,2 +1,2 @@
-# Instagram-Login-Page
-How to create Instagram Login page Using HTML and CSS
+# Instagram Phishing
+This is a small project to test the working of a phishing attack on an Instagram login page.
